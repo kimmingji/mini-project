@@ -1,1 +1,1 @@
-# MinJi
+# Minji Repo
